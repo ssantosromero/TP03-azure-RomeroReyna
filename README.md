@@ -14,7 +14,6 @@
 
 ### Credenciales de Acceso
 - **Usuario:** santosromeroreyna@hotmail.com
-- **Acceso:** Mediante invitación o solicitar acceso al propietario
 
 ## Estructura del Proyecto
 
