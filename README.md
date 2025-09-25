@@ -37,4 +37,5 @@
 - **Tecnología:** ASP.NET Core Web API
 
 ### Instrucciones para Clonar
-```bash
+git clone https://dev.azure.com/tp03-ingsoft-RomeroReyna/Sample02/_git/SimpleWebAPI
+cd SimpleWebAPI
